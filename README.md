@@ -1,2 +1,2 @@
-# let-s-learn-a-few-code
+# let's-learn-a-few-code
 Class from university
